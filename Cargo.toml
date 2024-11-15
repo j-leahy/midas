@@ -1,0 +1,9 @@
+[workspace]
+members = [ "mds-broker","mds-core", "mds-oracle"]
+
+[package]
+name = "midas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
