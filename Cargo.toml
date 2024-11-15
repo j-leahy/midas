@@ -1,5 +1,5 @@
 [workspace]
-members = [ "mds-broker","mds-core", "mds-oracle"]
+members = [ "mds_broker","mds_core", "mds_oracle"]
 
 [package]
 name = "midas"
